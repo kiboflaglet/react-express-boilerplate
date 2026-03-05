@@ -1,8 +1,12 @@
 ## React + Express.js boilerplate
 
-### Features
+### Tech
 
 #### Backend
 
-* Express
-* Supports TypeScript
+* express
+* TypeScript
+* prisma
+* better-auth
+* zod
+* socket.io
