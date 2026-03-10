@@ -10,3 +10,11 @@
 * better-auth
 * zod
 * socket.io
+
+#### Frontend
+
+* React
+* Tailwind CSS
+* ShadCN
+* BaseUI
+* React Router
